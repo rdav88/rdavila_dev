@@ -1,0 +1,14 @@
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/bin/Debug/net7.0/HelloWorld.cs
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/bin/Debug/net7.0/HelloWorld.cs.deps.json
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/bin/Debug/net7.0/HelloWorld.cs.runtimeconfig.json
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/bin/Debug/net7.0/HelloWorld.cs.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/bin/Debug/net7.0/HelloWorld.cs.pdb
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/obj/Debug/net7.0/HelloWorld.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/obj/Debug/net7.0/HelloWorld.cs.AssemblyInfoInputs.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/obj/Debug/net7.0/HelloWorld.cs.AssemblyInfo.cs
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/obj/Debug/net7.0/HelloWorld.cs.csproj.CoreCompileInputs.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/obj/Debug/net7.0/HelloWorld.cs.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.cs.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/obj/Debug/net7.0/HelloWorld.cs.pdb
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/obj/Debug/net7.0/HelloWorld.cs.genruntimeconfig.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.cs.dll

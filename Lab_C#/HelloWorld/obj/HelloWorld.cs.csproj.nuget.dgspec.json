@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld.cs/HelloWorld.cs.csproj": {}
+    "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/HelloWorld.cs.csproj": {}
   },
   "projects": {
-    "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld.cs/HelloWorld.cs.csproj": {
+    "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/HelloWorld.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld.cs/HelloWorld.cs.csproj",
+        "projectUniqueName": "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/HelloWorld.cs.csproj",
         "projectName": "HelloWorld.cs",
-        "projectPath": "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld.cs/HelloWorld.cs.csproj",
+        "projectPath": "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/HelloWorld.cs.csproj",
         "packagesPath": "/Users/rdavila/.nuget/packages/",
-        "outputPath": "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld.cs/obj/",
+        "outputPath": "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rdavila/.nuget/NuGet/NuGet.Config"
