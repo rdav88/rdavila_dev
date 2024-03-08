@@ -1,0 +1,14 @@
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/bin/Debug/net7.0/Lab_01_Entrada_de_Datos
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/bin/Debug/net7.0/Lab_01_Entrada_de_Datos.deps.json
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/bin/Debug/net7.0/Lab_01_Entrada_de_Datos.runtimeconfig.json
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/bin/Debug/net7.0/Lab_01_Entrada_de_Datos.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/bin/Debug/net7.0/Lab_01_Entrada_de_Datos.pdb
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/obj/Debug/net7.0/Lab_01_Entrada_de_Datos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/obj/Debug/net7.0/Lab_01_Entrada_de_Datos.AssemblyInfoInputs.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/obj/Debug/net7.0/Lab_01_Entrada_de_Datos.AssemblyInfo.cs
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/obj/Debug/net7.0/Lab_01_Entrada_de_Datos.csproj.CoreCompileInputs.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/obj/Debug/net7.0/Lab_01_Entrada_de_Datos.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/obj/Debug/net7.0/refint/Lab_01_Entrada_de_Datos.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/obj/Debug/net7.0/Lab_01_Entrada_de_Datos.pdb
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/obj/Debug/net7.0/Lab_01_Entrada_de_Datos.genruntimeconfig.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_01_Entrada_de_Datos/obj/Debug/net7.0/ref/Lab_01_Entrada_de_Datos.dll
