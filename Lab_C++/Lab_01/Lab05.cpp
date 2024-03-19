@@ -16,8 +16,8 @@ int main()
 
     
     area = lado * base;
-    //mensaje que muestra el area del cuadrado
-    cout << "El area del cuadrado es: " << area << endl;
+    //mensaje que muestra el area del rectangulo
+    cout << "El area del rectangulo es: " << area << endl;
 
     return 0; 
      

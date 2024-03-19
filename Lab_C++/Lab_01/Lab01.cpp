@@ -9,7 +9,6 @@ int main()
     int examen3;
     int examen4;
     int promedio;
-
     //ingreso de valores para almacenar
     cout << "Ingrese el valor del primer examen: ";
     cin >> examen1;

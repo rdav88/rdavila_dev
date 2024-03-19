@@ -17,7 +17,7 @@ int main()
     //proceso matematico que determinara la distancia recorrida
     distancia = velocidad * tiempo;
 
-    cout <<"La distancia recorrida del viaje es de: " << distancia << endl;
+    cout <<"La distancia recorrida del viaje en millas es de: " << distancia << endl;
 
     return 0;
 
