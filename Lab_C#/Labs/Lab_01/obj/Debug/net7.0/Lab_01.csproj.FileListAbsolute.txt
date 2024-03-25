@@ -1,0 +1,14 @@
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/obj/Debug/net7.0/Lab_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/obj/Debug/net7.0/Lab_01.AssemblyInfoInputs.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/obj/Debug/net7.0/Lab_01.AssemblyInfo.cs
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/obj/Debug/net7.0/Lab_01.csproj.CoreCompileInputs.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/bin/Debug/net7.0/Lab_01
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/bin/Debug/net7.0/Lab_01.deps.json
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/bin/Debug/net7.0/Lab_01.runtimeconfig.json
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/bin/Debug/net7.0/Lab_01.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/bin/Debug/net7.0/Lab_01.pdb
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/obj/Debug/net7.0/Lab_01.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/obj/Debug/net7.0/refint/Lab_01.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/obj/Debug/net7.0/Lab_01.pdb
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/obj/Debug/net7.0/Lab_01.genruntimeconfig.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Labs/Lab_01/obj/Debug/net7.0/ref/Lab_01.dll
