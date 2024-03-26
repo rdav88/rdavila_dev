@@ -1,0 +1,14 @@
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/obj/Debug/net7.0/Lab_Seleccion_Simple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/obj/Debug/net7.0/Lab_Seleccion_Simple.AssemblyInfoInputs.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/obj/Debug/net7.0/Lab_Seleccion_Simple.AssemblyInfo.cs
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/obj/Debug/net7.0/Lab_Seleccion_Simple.csproj.CoreCompileInputs.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/bin/Debug/net7.0/Lab_Seleccion_Simple
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/bin/Debug/net7.0/Lab_Seleccion_Simple.deps.json
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/bin/Debug/net7.0/Lab_Seleccion_Simple.runtimeconfig.json
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/bin/Debug/net7.0/Lab_Seleccion_Simple.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/bin/Debug/net7.0/Lab_Seleccion_Simple.pdb
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/obj/Debug/net7.0/Lab_Seleccion_Simple.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/obj/Debug/net7.0/refint/Lab_Seleccion_Simple.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/obj/Debug/net7.0/Lab_Seleccion_Simple.pdb
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/obj/Debug/net7.0/Lab_Seleccion_Simple.genruntimeconfig.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Lab_Seleccion_Simple/obj/Debug/net7.0/ref/Lab_Seleccion_Simple.dll

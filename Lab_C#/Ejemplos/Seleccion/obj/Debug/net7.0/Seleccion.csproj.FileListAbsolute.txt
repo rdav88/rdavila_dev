@@ -1,0 +1,14 @@
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/bin/Debug/net7.0/Seleccion
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/bin/Debug/net7.0/Seleccion.deps.json
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/bin/Debug/net7.0/Seleccion.runtimeconfig.json
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/bin/Debug/net7.0/Seleccion.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/bin/Debug/net7.0/Seleccion.pdb
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/obj/Debug/net7.0/Seleccion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/obj/Debug/net7.0/Seleccion.AssemblyInfoInputs.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/obj/Debug/net7.0/Seleccion.AssemblyInfo.cs
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/obj/Debug/net7.0/Seleccion.csproj.CoreCompileInputs.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/obj/Debug/net7.0/Seleccion.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/obj/Debug/net7.0/refint/Seleccion.dll
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/obj/Debug/net7.0/Seleccion.pdb
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/obj/Debug/net7.0/Seleccion.genruntimeconfig.cache
+/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Ejemplos/Seleccion/obj/Debug/net7.0/ref/Seleccion.dll
