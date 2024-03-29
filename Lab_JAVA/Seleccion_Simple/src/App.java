@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Seleccion_Doble
+class Main
 {
     public static void main(String[] arg)
     {   
@@ -16,7 +16,7 @@ class Seleccion_Doble
             System.out.println("Puede realizar prestamos en la biblioteca.");
             // condicion que se cumple si el estado de la tarjeta es activa
         } 
-        else
+        if ("inactiva".equals(tarjeta))
         {   // mensaje que se anuncia si el estado de la tarjeta no es activa
             System.out.println("No puede realizar prestamos en la biblioteca.");
         }
