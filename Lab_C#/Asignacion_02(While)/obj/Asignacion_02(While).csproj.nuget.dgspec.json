@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Asignacion_02(While)/Asignacion_02(While).csproj": {}
+  },
+  "projects": {
+    "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Asignacion_02(While)/Asignacion_02(While).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Asignacion_02(While)/Asignacion_02(While).csproj",
+        "projectName": "Asignacion_02(While)",
+        "projectPath": "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Asignacion_02(While)/Asignacion_02(While).csproj",
+        "packagesPath": "/Users/rdavila/.nuget/packages/",
+        "outputPath": "/Users/rdavila/Desktop/git-structured programming/rdavila_lm/Lab_C#/Asignacion_02(While)/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rdavila/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
