@@ -11,7 +11,7 @@ class Main
 
         Scanner scanner = new Scanner (System.in);
 
-        while (meses <= 12)
+        while (meses <= 12) //bucle While que repite mientras meses sea menor o igual a 12
         {
             System.out.print ("Ingresa la temperatura del mes " + meses + ": "); //solicitar al usuario que introduzca la temperatura
             temperatura = scanner.nextInt();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main
+class Program
 {
     public static void main(String[] arg)
     {   //variables para almacenar los meses, sus temperaturas, la suma total y el promedio

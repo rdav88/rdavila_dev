@@ -9,7 +9,7 @@ class Program
         int total_temp = 0;
         int promedio_temp;
 
-        while (meses <= 12)
+        while (meses <= 12) //bucle While que repite mientras meses sea menor o igual a 12
         {
             Console.Write("Ingresa la temperatura del mes " + meses + ": "); //solicitar al usuario que introduzca la temperatura
             temperatura = int.Parse(Console.ReadLine());
