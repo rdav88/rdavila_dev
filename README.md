@@ -1,2 +1,2 @@
-## Programación Estructurada COMP2315 - Profa. Karina Melendez Torres
+## Proyectos de programación
 ### Autor: Rubén Alejandro Dávila
