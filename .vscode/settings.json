@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "FSharp.suggestGitignore": false,
+    "git.decorations.enabled": true,
+    "git.enabled": true
+}
